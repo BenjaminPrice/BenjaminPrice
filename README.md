@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, World! 👋
+
+Most of my public repositories are just little learning projects. There are the occasional more "serious" project repositories but take "serious" with a large grain of salt.
+
+The majority of my work on GitHub happens in private repositories due to the nature of my work.
 
 <!--
 **BenjaminPrice/BenjaminPrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
